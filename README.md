@@ -1,6 +1,7 @@
 # Hallucination_Detection-Legendary-and-Mighty-Capybara
 
 # 📂 Folder Structure
+```
 hallucination-detection/
 ├── data/                 
 │   ├── preprocess.py          # code xử lý dữ liệu thô
@@ -40,3 +41,4 @@ hallucination-detection/
 │
 ├── requirements.txt      
 └── README.md
+```
