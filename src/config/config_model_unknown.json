@@ -1,0 +1,8 @@
+{
+    "model_name": "",
+    "batch_size": 16,
+    "learning_rate": 2e-5,
+    "num_epochs": 2,
+    "output_dir": "results/checkpoints/...",
+    "log_dir": "results/logs/"
+}
